@@ -1,0 +1,6 @@
+{
+  "name": "Examen de Español - Իսպաներենի Քննություն",
+  "description": "Իսպաներենի քննական ինտերակտիվ համակարգ հայերեն թարգմանությամբ. 20 տոմս, 80 քննական հարց և պատասխան:",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
